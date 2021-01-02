@@ -1,0 +1,10 @@
+.alert{
+    //background: #e07e7efa;
+    color: red;
+    width: 286px;
+    margin-bottom: 5px;
+    padding: 4px;
+   //text-align: center;
+    /* margin: 5px auto; */
+    margin-left: 153px;
+}
